@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InPen/portfolioReact/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/InPen/portfolioReact/static/js/main.2d35d4a4.chunk.js",
+    "main.js.map": "/InPen/portfolioReact/static/js/main.2d35d4a4.chunk.js.map",
+    "runtime-main.js": "/InPen/portfolioReact/static/js/runtime-main.43d91c0d.js",
+    "runtime-main.js.map": "/InPen/portfolioReact/static/js/runtime-main.43d91c0d.js.map",
+    "static/js/2.1c3bbd00.chunk.js": "/InPen/portfolioReact/static/js/2.1c3bbd00.chunk.js",
+    "static/js/2.1c3bbd00.chunk.js.map": "/InPen/portfolioReact/static/js/2.1c3bbd00.chunk.js.map",
+    "static/js/3.fef3c260.chunk.js": "/InPen/portfolioReact/static/js/3.fef3c260.chunk.js",
+    "static/js/3.fef3c260.chunk.js.map": "/InPen/portfolioReact/static/js/3.fef3c260.chunk.js.map",
+    "index.html": "/InPen/portfolioReact/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/InPen/portfolioReact/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1c3bbd00.chunk.js.LICENSE.txt": "/InPen/portfolioReact/static/js/2.1c3bbd00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d91c0d.js",
+    "static/js/2.1c3bbd00.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.2d35d4a4.chunk.js"
+  ]
+}
