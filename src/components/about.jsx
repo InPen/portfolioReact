@@ -14,10 +14,11 @@ export default class About extends Component {
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I'm a software engineer | avid D&D player | Hufflepuff</p>
-                    <p>A large part of a typical developer's time is spent on debugging and reading existing code. Every now and then we do get to write a line or two of new code, but a large part of our time is spent on trying to figure out why something is broken or how something works. Good practices and tools for debugging are extremely important for this reason.
-                    I've been spending my quarantine free lancing at Upwork and finding stuff at local "Everything Free" Facebook groups. Nothing gets my adrenaling going like a free iMac from my neighbors or a level 6kyu from Code Wars.
-                    Most of my code can be found on <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">Github</a></p>
-                    </div>
+                    <p>Howdy <span role="img" aria-label="wave">👋🏾</span> !<br />
+                    Full Stack Software Engineer based in Boston, proficent in both Front and Backend development. In my opinion, there's nothing like listening to some <a href="https://www.youtube.com/watch?v=1A2iBiNPVAY" target="_blank" rel="noopener noreferrer">mambo</a> while recreating partterns in React.
+                    I've been spending my quarantine building <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">quirky projects</a> and I'm currently taking a 10 week alumni bootcamp with <a href="https://leonnoel.com/about/" target="_blank" rel="noopener noreferrer">Leon</a>. <br /> If I'm not coding, you can find me at my local "Everything Free" Facebook groups. Nothing gets my adrenaling going like free Montessori toys, plants, and the rare vintage tech my neighbors give away.
+                    </p>
+                  </div>
                 </div>
                 </div>
             </div>
