@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Alumni Software Engineer <br /> <span>Resilient Coders</span> <br /> <span>Oct. 2020 - Jan. 2021</span></h2>
-                        <p>Attending a 10 week alumni bootcamp to refresh the basics of OOP, Full Stack JS, Typescript, Redux, GraphQL, React Native, and TDD.</p>
+                        <p>Selected to participate in a 10-week alumni bootcamp class to refresh the basics of OOP, Full Stack JS, Typescript, Redux, GraphQL, React Native, and TDD.</p>
                       </div>
                     </div>
                   </article>
@@ -34,10 +34,10 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Software Engineer Instructor <br /> <span>General Assembly</span> <br /> <span>2017- 2019</span></h2>
                         <ul>
-                          <li>Began Python curriculum for Boston campus.</li>
                           <li>Lead lectures on technologies such as Git, CSS/SASS, JavaScript, Express, PostgreSQL, and MongoDB.</li>
-                          <li>Helped launch a new campus in Rhode Island.</li>
-                          <li>Became the go to instructor for support and technical feedback on code written by ESL students through homework, projects, and evaluations.</li>
+                          <li>Became the go-to instructor for support and technical feedback on code written by ESL students through homework, projects, and evaluations. </li>
+                          <li>Helped launch the new campus in Rhode Island.</li>
+                          <li>Collaborated in building the Python curriculum for the Boston campus.</li>
                         </ul>
                       </div>
                     </div>
@@ -50,8 +50,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>FrontEnd Developer <br /> <span>Resilient Labs</span> <br /> <span>January 2017 - May 2017</span></h2>
                         <ul>
-                          <li>Created full stack applications and websites for different clients across small and medium size businesses.</li>
-                          <li>Consulted on SEO and social media strategy.</li>
+                          <li>Created full stack applications and websites for different clients across small and medium size businesses, and consulted on SEO and social media strategy.</li>
                           <li>Applied agile methodologies like SCRUM for project management.</li>
                         </ul>
                       </div>
