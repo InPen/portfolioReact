@@ -13,10 +13,10 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>software engineer | avid D&D player | Hufflepuff</p>
+                    <p>Software Engineer | Educador | Hufflepuff</p>
                     <p>Howdy <span role="img" aria-label="wave">👋🏾</span> !<br />
-                    Full Stack Software Engineer based in Boston, proficent in both Front and Backend development. In my opinion, there's nothing like listening to some <a href="https://www.youtube.com/watch?v=1A2iBiNPVAY" target="_blank" rel="noopener noreferrer">mambo</a> while recreating partterns in React.
-                    I've been spending my quarantine building <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">quirky projects</a> and I'm currently taking a 10 week alumni bootcamp with <a href="https://leonnoel.com/about/" target="_blank" rel="noopener noreferrer">Leon</a> to maintain my boss status. <br /> If I'm not coding, you can find me at my local "Everything Free" Facebook groups. Nothing gets my adrenaline going like free Montessori toys, plants, and the rare vintage tech my neighbors give away.
+                    Full Stack Software Engineer based in Boston, proficient in both Front and Backend development. In my opinion, there's nothing like being in the zone, listening to some <a href="https://www.youtube.com/watch?v=1A2iBiNPVAY" target="_blank" rel="noopener noreferrer">mambo</a>, and recreating partterns in React.
+                    I've been spending my quarantine building <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">quirky projects</a> and taking a 10 week alumni class with <a href="https://leonnoel.com/about/" target="_blank" rel="noopener noreferrer">Leon</a> to maintain my boss status. <br /> If I'm not coding, you can find me at my local "Everything Free" Facebook groups. Nothing gets my adrenaline going like free vynils, Montessori toys, plants, and the rare vintage tech my neighbors give away.
                     </p>
                   </div>
                 </div>
@@ -25,6 +25,7 @@ export default class About extends Component {
             </div>
         </div>
         </section>
+        {/*
         <section className="colorlib-about">
         <div className="colorlib-narrow-content">
             <div className="row">
@@ -67,6 +68,7 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
+            */}
 
             {/*
             <div className="col-md-4 text-center animate-box">
@@ -100,12 +102,16 @@ export default class About extends Component {
                     <h3>Digital Marketing</h3>
                     <p>I use Instagram eight hours a day :) </p>
                 </div>
+
                 </div>
+
             </div>
-            */}
+
             </div>
+
         </div>
         </section>
+        */}
       </div>
     )
   }
