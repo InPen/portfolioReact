@@ -17,12 +17,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<h3><a href="work.html">Tetris</a></h3>
+											{/*<span>Website</span>*/}
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
+												<span><a href="https://inpen.github.io/Tetris/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
 									</div>
@@ -32,12 +32,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="work.html">Countries App</a></h3>
+											{/*<span>Animation</span>*/}
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
+												<span><a href="https://inpen.github.io/Tetris/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
 									</div>
@@ -47,12 +47,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="work.html">Phone Book App</a></h3>
+											{/*<span>Illustration</span>*/}
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
+												<span><a href="https://phonebook-backend-2020.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
 									</div>
@@ -62,12 +62,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="work.html">Drum Kit</a></h3>
+											{/*<span>Application</span>*/}
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
+												<span><a href="https://inpen.github.io/Tetris/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
 									</div>
@@ -77,12 +77,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="work.html">Coffee Shop Rating App</a></h3>
+											{/*<span>Graphic, Logo</span>*/}
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
+												<span><a href="https://inpen.github.io/Tetris/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
 									</div>
@@ -92,12 +92,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="work.html">Reloj No Marques Las Horas~</a></h3>
+											{/*<span>Web Design</span>*/}
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
+												<span><a href="https://inpen.github.io/Tetris/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
 									</div>
