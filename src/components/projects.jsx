@@ -66,7 +66,7 @@ export default class Projects extends Component {
 											{/*<span>Application</span>*/}
 											<p className="icon">
 												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
-												<span><a href="https://inpen.github.io/Tetris/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												<span><a href="https://inpen.github.io/drumKit/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
 												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
@@ -96,7 +96,7 @@ export default class Projects extends Component {
 											{/*<span>Web Design</span>*/}
 											<p className="icon">
 												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
-												<span><a href="https://inpen.github.io/Tetris/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												<span><a href="https://inpen.github.io/relojNoMarquesLasHoras/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
 												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
