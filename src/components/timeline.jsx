@@ -48,7 +48,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>FrontEnd Developer <br /> <span>Resilient Labs</span> <br /> <span>January 2017 - May 2017</span></h2>
+                        <h2>FrontEnd Developer Intern <br /> <span>Resilient Labs</span> <br /> <span>January 2017 - May 2017</span></h2>
                         <ul>
                           <li>Created full stack applications and websites for different clients across small and medium size businesses, and consulted on SEO and social media strategy.</li>
                           <li>Applied agile methodologies like SCRUM for project management.</li>
