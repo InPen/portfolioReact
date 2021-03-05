@@ -32,11 +32,11 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Drum Kit</a></h3>
+											<h3><a href="work.html">Shopping Cart</a></h3>
 											{/*<span>Animation</span>*/}
 											<p className="icon">
 												{/*<span><a href="#"><i className="icon-share3" /></a></span>*/}
-												<span><a href="https://inpen.github.io/drumKit/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
+												<span><a href="https://inpen.github.io/shoppingCart/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /></a></span>
 												{/*<span><a href="#"><i className="icon-heart" /> 49</a></span>*/}
 											</p>
 										</div>
