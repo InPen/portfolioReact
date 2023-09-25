@@ -13,10 +13,13 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Software Engineer | Educador | Hufflepuff</p>
-                    <p>Howdy <span role="img" aria-label="wave">👋🏾</span> !<br />
-                    Full Stack Software Engineer based in Boston, proficient in both Front and Backend development. Honestly, there's nothing like being in the zone while listening to some <a href="https://www.youtube.com/watch?v=1A2iBiNPVAY" target="_blank" rel="noopener noreferrer">mambo</a> and recreating partterns in React. I believe in using technology to empower others to reach their potential. My passion is to use software development and sociology to build a world in which where you come from doesn’t serve as a barrier to success.<br />
-                    I've been spending my quarantine building <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">quirky projects</a> and taking a 10 week alumni class with <a href="https://leonnoel.com/about/" target="_blank" rel="noopener noreferrer">Leon</a> to maintain my boss status. <br /> If I'm not coding, you can find me at my local "Everything Free" Facebook groups. Nothing gets my adrenaline going like free vynils, Montessori toys for my baby, plants, and the rare vintage tech my neighbors give away.
+                    <p>Cloud Engineer | Software Engineer | Hufflepuff</p>
+                    <p>Hi <span role="img" aria-label="wave">👋🏾</span> !<br />
+                    I'm Maria Inés, and I thrive in the dynamic world of cloud and software engineering. I have an insatiable appetite for learning and coding, which fuels my intellectual interest.  
+                    <br />Beyond the screens and lines of code, you'll often find me donning roller derby gear for an exhilarating rush of adrenaline or exploring the great outdoors on hiking adventures with my family.
+                    My life is a harmonious blend of tech innovation and active, nature-filled escapades, and I relish every moment of this exciting dual existence.
+                    I believe in using technology to empower others to reach their potential. My passion is to use tech and sociology to build a world in which where you come from doesn’t serve as a barrier to success.<br />
+                    You can checkout some of my work and play with some <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">quirky projects</a>.
                     </p>
                   </div>
                 </div>
