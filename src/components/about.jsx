@@ -17,9 +17,8 @@ export default class About extends Component {
                     <p>Hi <span role="img" aria-label="wave">👋🏾</span> !<br />
                     I'm Maria Inés, and I thrive in the dynamic world of cloud and software engineering. I have an insatiable appetite for learning and coding, which fuels my intellectual interest.  
                     <br />Beyond the screens and lines of code, you'll often find me donning roller derby gear for an exhilarating rush of adrenaline or exploring the great outdoors on hiking adventures with my family.
-                    My life is a harmonious blend of tech innovation and active, nature-filled escapades, and I relish every moment of this exciting dual existence.
-                    I believe in using technology to empower others to reach their potential. My passion is to use tech and sociology to build a world in which where you come from doesn’t serve as a barrier to success.<br />
-                    You can checkout some of my work and play with some <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">quirky projects</a>.
+                    <br />My passion is to use tech and sociology to build a world in which where you come from doesn’t serve as a barrier to success.<br />
+                    You can checkout some of my work and play with my quirky SE projects <a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer">here</a>.
                     </p>
                   </div>
                 </div>
