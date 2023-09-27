@@ -34,9 +34,9 @@ export default class Sidebar extends Component {
               */}
                 <li><a href="https://www.linkedin.com/in/inpen/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/InPen" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-              {/*
-                <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
-              */}
+              
+                <li><a href="https://brocktonbruisersrollerderby.com/" target="_blank" rel="noopener noreferrer"><i className="icon-flash"></i></a></li>
+              
               </ul>
             </nav>
             <div className="colorlib-footer">
